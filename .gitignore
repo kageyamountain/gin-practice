@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+# Docker
+gin-fleamarket/docker/postgres/pgdata/
+gin-fleamarket/docker/pgadmin/
